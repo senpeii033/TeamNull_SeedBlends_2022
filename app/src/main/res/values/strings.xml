@@ -5,4 +5,7 @@
     <string name="Password">Password</string>
     <string name="sign_up">Sign Up</string>
     <string name="log_in">Log in</string>
+    <string name="begin_tracking">Begin Tracking</string>
+    <string name="field_data">Field Data</string>
+    <string name="documentation">Documentation</string>
 </resources>

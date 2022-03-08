@@ -11,6 +11,7 @@
         android:theme="@style/Theme.TeamNull_SeedBlends_2022">
         <activity
             android:name=".Login"
+            android:name=".Documentation"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
